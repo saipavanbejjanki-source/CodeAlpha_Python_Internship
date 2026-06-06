@@ -18,7 +18,7 @@ A text-based word guessing game where the player attempts to guess a hidden word
 - Functions and Data Structures
 - File Handling
 - User Input and Output
-- Problem Solving
+- Problem Solving.
 
 ## Author
 **Bejjanki Sai Pavan**
